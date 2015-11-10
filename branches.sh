@@ -1,4 +1,4 @@
-#!/bin/shell
+#!/bin/sh
 
 # Set branch description.
 # git branch --edit-description
